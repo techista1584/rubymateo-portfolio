@@ -14,7 +14,7 @@ export const projects = [
     id: 1,
     src: project1,
     name: 'Web Studio',
-    href: 'https://marventures.github.io/goit-markup-hw-07/',
+    href: 'https://techista1584.github.io/goit-markup-hw-07/',
   },
   {
     id: 2,
@@ -26,19 +26,19 @@ export const projects = [
     id: 3,
     src: project3,
     name: 'Color Switcher',
-    href: 'https://github.com/marventures/goit-js-hw-09',
+    href: 'https://techista1584.github.io/goit-js-hw-09/',
   },
   {
     id: 4,
     src: project4,
-    name: 'Color Switcher',
-    href: 'https://github.com/marventures/goit-js-hw-09',
+    name: 'Feedback',
+    href: 'https://techista1584.github.io/goit-react-hw-02-feedback/',
   },
   {
     id: 5,
     src: project5,
     name: 'Cat Project',
-    href: 'https://github.com/marventures/goit-js-hw-10',
+    href: 'https://techista1584.github.io/goit-js-hw-10/',
   },
   {
     id: 6,
@@ -50,7 +50,7 @@ export const projects = [
     id: 7,
     src: project7,
     name: 'Image Finder',
-    href: 'https://marventures.github.io/goit-react-hw-04-images/',
+    href: 'https://techista1584.github.io/goit-react-hw-03-image-finder/',
   },
   {
     id: 8,
@@ -62,6 +62,6 @@ export const projects = [
     id: 9,
     src: project9,
     name: 'Phonebook',
-    href: 'https://marventures.github.io/goit-react-hw-08-phonebook/',
+    href: 'https://techista1584.github.io/goit-react-hw-03-phonebook/',
   },
 ];

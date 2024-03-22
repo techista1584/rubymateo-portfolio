@@ -26,12 +26,12 @@ export const aboutList2 = [
   {
     id: 1,
     description: 'Skills',
-    value: 'HTML, CSS, SASS, JavaScript, React, Node',
+    value: 'HTML, CSS, SASS, JavaScript, React, Node, VBA, SQL, Power Query',
   },
   {
     id: 2,
     description: 'Hobbies',
-    value: 'Netflix, Badminton, Computer Games, Hiking',
+    value: 'Netflix, Badminton, Youtube University, Nature Tripping',
   },
   {
     id: 3,
