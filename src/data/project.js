@@ -44,7 +44,7 @@ export const projects = [
     id: 6,
     src: project6,
     name: 'Image Search',
-    href: 'https://github.com/marventures/goit-js-hw-11',
+    href: 'https://techista1584.github.io/goit-js-hw-11',
   },
   {
     id: 7,
@@ -56,7 +56,7 @@ export const projects = [
     id: 8,
     src: project8,
     name: 'Movie Search',
-    href: 'https://marventures.github.io/goit-react-hw-05-movies/',
+    href: './',
   },
   {
     id: 9,
