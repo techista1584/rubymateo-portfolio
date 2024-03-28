@@ -28,6 +28,7 @@
   overflow: hidden;
   z-index: 1;
   background: var(--SECONDARY);
+  border-radius: 5px;;
 }
 
 .projectItem::before {
