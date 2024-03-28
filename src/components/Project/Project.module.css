@@ -28,7 +28,12 @@
   overflow: hidden;
   z-index: 1;
   background: var(--SECONDARY);
-  border-radius: 5px;;
+  border-radius: 5px;
+  opacity: 1;
+}
+
+.projectItem:hover {
+  opacity: .9;
 }
 
 .projectItem::before {
@@ -49,7 +54,7 @@
   left: 0;
   right: 0;
   bottom: 0;
-  opacity: 1;
+  opacity: .9;
 }
 
 .projectItem:hover .projectInfo {
@@ -115,6 +120,7 @@
   margin: 0 2px;
   font-size: 28px;
   transition: all ease-in-out 0.3s;
+  text-decoration: none;
 }
 
 .projectLink:hover {

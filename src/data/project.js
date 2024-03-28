@@ -20,7 +20,7 @@ export const projects = [
     id: 2,
     src: project2,
     name: 'Image Gallery',
-    href: 'https://marventures.github.io/goit-js-hw-07/',
+    href: 'hhttps://techista1584.github.io/goit-js-hw-07/',
   },
   {
     id: 3,
