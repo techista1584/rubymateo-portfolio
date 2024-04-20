@@ -56,7 +56,7 @@ export const projects = [
     id: 8,
     src: project8,
     name: 'Movie Search',
-    href: './',
+    href: 'https://techista1584.github.io/goit-react-hw-05-movies/',
   },
   {
     id: 9,
