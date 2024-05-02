@@ -62,6 +62,6 @@ export const projects = [
     id: 9,
     src: project9,
     name: 'Phonebook',
-    href: 'https://techista1584.github.io/goit-react-hw-03-phonebook/',
+    href: 'https://techista1584.github.io/goit-react-hw-07-phonebook/',
   },
 ];
