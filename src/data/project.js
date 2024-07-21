@@ -8,6 +8,7 @@ import project6 from '../images/project-6.png';
 import project7 from '../images/project-7.png';
 import project8 from '../images/project-8.png';
 import project9 from '../images/project-9.png';
+import project10 from '../images/project-10.png';
 
 export const projects = [
   {
