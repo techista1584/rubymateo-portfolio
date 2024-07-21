@@ -64,4 +64,10 @@ export const projects = [
     name: 'Phonebook',
     href: 'https://techista1584.github.io/goit-react-hw-08-phonebook/',
   },
+  {
+    id: 10,
+    src: project10,
+    name: 'Web Studio',
+    href: 'https://mayotopia04.github.io/Team-Outfit/',
+  },
 ];
